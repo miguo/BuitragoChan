@@ -93,13 +93,13 @@ body {
 	margin-top: 36px;
 }
 
-#twoByTwo:hover {
+.gridTwo:hover {
     color: white;
     background-color: #2C3539;
     border-color: #2C3539;
 }
 
-#threeByThree {
+.gridThree, #threeByThree {
     color: white;
     background-color: #2C3539;
     border-color: #2C3539;
