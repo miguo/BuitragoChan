@@ -93,13 +93,26 @@ body {
 	margin-top: 36px;
 }
 
-.gridTwo:hover {
+.btn {
+    -webkit-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    -moz-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    -o-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    box-shadow: 0 5px 15px rgba(0,0,0,0);
+}
+
+#threeByThree {
     color: white;
     background-color: #2C3539;
     border-color: #2C3539;
 }
 
-.gridThree, #threeByThree {
+.gridTwo {
+    color: #2C3539;
+    background-color: white;
+    border-color: white;
+}
+
+.gridThree {
     color: white;
     background-color: #2C3539;
     border-color: #2C3539;
