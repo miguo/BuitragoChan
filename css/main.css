@@ -118,6 +118,16 @@ body {
     border-color: #2C3539;
 }
 
+.two {
+    height: 420px;
+    width: 420px;
+}
+
+.three {
+    height: 306px;
+    width: 306px;
+}
+
 #sign_in, #paginate {
 	font-size: 18px;
 	color: white;
@@ -141,6 +151,7 @@ body {
 
 #photoFeed {
     padding-top: 60px;
+    text-align: center;
 }
 
 #photoFeed img {
